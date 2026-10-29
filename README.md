@@ -92,9 +92,13 @@ Con esta actividad aprendí a crear algoritmos que resuelven situaciones de la v
 ## algoritmos 
 
 ValidarEdad:  Comprueba si una edad es válida.
+
 ValidarRegistro:  Verifica la edad y la aceptación de los términos.
+
 Parqueadero:  Calcula el precio del estacionamiento.
+
 Bisiestoo:  Determina si un año es bisiesto.
+
 Semaforo:  Muestra un mensaje según la cantidad de unidades.
 
  ## Tablas de variables
