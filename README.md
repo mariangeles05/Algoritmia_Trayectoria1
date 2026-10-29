@@ -81,3 +81,11 @@ El programa pide el nombre y el apellido de la persona y después muestra un men
 ## Conclusión
 
 Con esta actividad aprendí a crear algoritmos que resuelven situaciones de la vida cotidiana, como calcular una edad, obtener un promedio o repartir una cuenta entre varias personas. También practiqué cómo pedir datos al usuario, guardarlos en variables y hacer operaciones para mostrar un resultado. Me sirvió para entender mejor cómo se organiza un programa paso a paso y cómo comprobar que funcione usando diferentes datos.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Algoritmia - Semana 2
+
