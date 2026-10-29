@@ -89,3 +89,27 @@ Con esta actividad aprendí a crear algoritmos que resuelven situaciones de la v
 
 # Algoritmia - Semana 2
 
+## algoritmos 
+
+ValidarEdad:  Comprueba si una edad es válida.
+ValidarRegistro:  Verifica la edad y la aceptación de los términos.
+Parqueadero:  Calcula el precio del estacionamiento.
+Bisiestoo:  Determina si un año es bisiesto.
+Semaforo:  Muestra un mensaje según la cantidad de unidades.
+
+ ## Tablas de variables
+Algoritmo                  	Variable                  	Tipo
+ValidarEdad	                 edad	                     Entero
+ValidarRegistro	      edad, rest	Entero,              Caracter
+Parqueadero	        time, horas, valor, tarif	      Entero y Real
+Bisiestoo	                  years	                      Entero
+Semaforo	                  unid	                      Entero
+
+ ## Puebra de escritorio
+
+Algoritmo	            Entrada	             Resultado
+ValidarEdad	            18              	Edad válida
+ValidarRegistro	      18, S           	Registro exitoso
+Parqueadero	        carro, 60 min	          $4.000
+Bisiestoo	             2024	            Año bisiesto
+Semaforo	          5 unidades          	Amarillo
