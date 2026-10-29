@@ -113,6 +113,7 @@ Semaforo	                  unid	                      Entero
 
  | Algoritmo | Entrada | Resultado |
 |---|---|---|
+|hola|hola|hola|
 
 |Algoritmo |Entrada|Resultado|
 |ValidarEdad	| 18 |	Edad válida|
