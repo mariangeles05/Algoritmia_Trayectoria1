@@ -114,9 +114,9 @@ Semaforo	                  unid	                      Entero
  | Algoritmo | Entrada | Resultado |
 |---|---|---|
 
-|Algoritmo	       |     Entrada	      |       Resultado|
-|ValidarEdad	   |         18          |    	Edad válida|
-|ValidarRegistro	|      18, S          | 	Registro exitoso|
-|Parqueadero	    |    carro, 60 min	    |      $4.000|
-|Bisiestoo	     |        2024	         |   Año bisiesto|
-|Semaforo	      |    5 unidades         | 	Amarillo|
+|Algoritmo |Entrada|Resultado|
+|ValidarEdad	| 18 |	Edad válida|
+|ValidarRegistro|18, S| 	Registro exitoso|
+|Parqueadero | carro, 60 min	| $4.000|
+|Bisiestoo|2024 |Año bisiesto|
+|Semaforo	|5 unidades| 	Amarillo|
