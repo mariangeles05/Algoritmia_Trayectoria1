@@ -109,16 +109,22 @@ Parqueadero	        time, horas, valor, tarif	      Entero y Real
 Bisiestoo	                  years	                      Entero
 Semaforo	                  unid	                      Entero
 
+|Algoritmo | Variable | Tipo|
+|ValidarEdad| edad| entero|
+|ValidarRegistro|edad, rest | entero , caracter|
+|Parqueadero | time, horas, valor, tarif| Entero y Real|
+|Bisiesto| years| Entero|
+|Semáforo| unid | entero |
+
+
  ## Puebra de escritorio
 
  | Algoritmo | Entrada | Resultado |
 |---|---|---|
 |ValidarEdad|18|Edad valida|
 |ValidarRegistro| 18, S | Registro Exitoso|
+|Parqueadero | carro, 60 min | $4.000|
+|Bisiesto| 2024 | Año bisiesto|
+|Semáforo| 5 unidades| Amarillo
 
-|Algoritmo |Entrada|Resultado|
-|ValidarEdad	| 18 |	Edad válida|
-|ValidarRegistro|18, S| 	Registro exitoso|
-|Parqueadero | carro, 60 min	| $4.000|
-|Bisiestoo|2024 |Año bisiesto|
-|Semaforo	|5 unidades| 	Amarillo|
+
