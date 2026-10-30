@@ -102,14 +102,9 @@ Bisiestoo:  Determina si un año es bisiesto.
 Semaforo:  Muestra un mensaje según la cantidad de unidades.
 
  ## Tablas de variables
-Algoritmo                  	Variable                  	Tipo
-ValidarEdad	                 edad	                     Entero
-ValidarRegistro	      edad, rest	Entero,              Caracter
-Parqueadero	        time, horas, valor, tarif	      Entero y Real
-Bisiestoo	                  years	                      Entero
-Semaforo	                  unid	                      Entero
 
 |Algoritmo | Variable | Tipo|
+|---|---|---|
 |ValidarEdad| edad| entero|
 |ValidarRegistro|edad, rest | entero , caracter|
 |Parqueadero | time, horas, valor, tarif| Entero y Real|
