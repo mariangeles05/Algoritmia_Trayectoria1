@@ -113,7 +113,8 @@ Semaforo	                  unid	                      Entero
 
  | Algoritmo | Entrada | Resultado |
 |---|---|---|
-|hola|hola|hola|
+|ValidarEdad|18|Edad valida|
+|ValidarRegistro| 18, S | Registro Exitoso|
 
 |Algoritmo |Entrada|Resultado|
 |ValidarEdad	| 18 |	Edad válida|
