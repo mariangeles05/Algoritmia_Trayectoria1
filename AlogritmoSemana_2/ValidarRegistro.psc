@@ -1,7 +1,7 @@
 Algoritmo ValidarRegistro
 	definir edad Como Entero
 	definir rest Como Caracter
-	Escribir "Cuantos años tienes?"
+	Escribir "Cuantos aï¿½os tienes?"
 	leer edad
 	Escribir "Aceptas los Terminos? (S/N)"
 	leer rest 
